@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 玉海
-#+DATE: 2019-03-29 20:25:11.411561
+#+DATE: 2019-03-29 20:25:14.743727
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 27
 <pb:KR3k0032_WYG_027-1a>¶
 ¶
@@ -23,7 +23,7 @@
 <pb:KR3k0032_WYG_027-1b>¶
 　講經賜陸徳明帛　太宗文學館給珍膳　元宗麗¶
 　正院講易賜燕飲學士賦詩　集仙殿置酒　賜趙¶
-　𢎞智名馬　韋處厚金帛　賜鄭澣金紫　太液亭¶
+　弘智名馬　韋處厚金帛　賜鄭澣金紫　太液亭¶
 　賜酒¶
 ¶
 咸平崇政殿宴　天聖(景祐慶厯)　天聖太清樓宴¶
