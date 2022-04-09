@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 54
+#+PROPERTY: JUAN 卷五十三
 <pb:KR3k0032_WYG_053-1a>¶
-¶
-卷五十三¶
 欽定四庫全書¶
 　玉海卷五十三¶
 　　　　　　　　　　　　宋　王應麟　撰¶

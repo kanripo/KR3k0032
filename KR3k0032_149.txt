@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 150
+#+PROPERTY: JUAN 卷一百四十九
 <pb:KR3k0032_WYG_149-1a>¶
-¶
-卷一百四十九¶
 欽定四庫全書¶
 　玉海卷一百四十九¶
 　　　　　　　　　　　　宋　王應麟　撰¶

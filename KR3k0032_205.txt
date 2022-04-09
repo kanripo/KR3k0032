@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 206
+#+PROPERTY: JUAN 卷二百四
 <pb:KR3k0032_WYG_205-1a>¶
-¶
-卷二百四¶
 欽定四庫全書¶
 　玉海卷二百四¶
 　　　　　　　　　　　　宋　王應麟　撰¶

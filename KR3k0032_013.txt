@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 13
+#+PROPERTY: JUAN 卷十三
 <pb:KR3k0032_WYG_013-1a>¶
-¶
-卷十三¶
 欽定四庫全書¶
 　玉海卷十三¶
 　　　　　　　　　　　　宋　王應麟　撰¶

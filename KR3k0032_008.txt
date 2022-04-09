@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 8
+#+PROPERTY: JUAN 卷八
 <pb:KR3k0032_WYG_008-1a>¶
-¶
-卷八¶
 欽定四庫全書¶
 　玉海卷八¶
 　　　　　　　　　　　　宋　王應麟　撰¶

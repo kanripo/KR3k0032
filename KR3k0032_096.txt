@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 97
+#+PROPERTY: JUAN 卷九十六
 <pb:KR3k0032_WYG_096-1a>¶
-¶
-卷九十六¶
 欽定四庫全書¶
 　玉海卷九十六¶
 　　　　　　　　　　　　宋　王應麟　撰¶

@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 131
+#+PROPERTY: JUAN 卷一百三十
 <pb:KR3k0032_WYG_130-1a>¶
-¶
-卷一百三十¶
 欽定四庫全書¶
 　玉海巻一百三十¶
 　　　　　　　　　　　　宋　王應麟　撰¶

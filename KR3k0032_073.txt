@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 74
+#+PROPERTY: JUAN 卷七十三
 <pb:KR3k0032_WYG_073-1a>¶
-¶
-卷七十三¶
 欽定四庫全書¶
 　玉海卷七十三¶
 　　　　　　　　　　　　宋　王應麟　撰¶

@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 69
+#+PROPERTY: JUAN 卷六十八
 <pb:KR3k0032_WYG_068-1a>¶
-¶
-卷六十八¶
 欽定四庫全書¶
 　玉海卷六十八¶
 　　　　　　　　　　　　宋　王應麟　撰¶

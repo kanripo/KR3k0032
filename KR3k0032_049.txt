@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 50
+#+PROPERTY: JUAN 卷四十九
 <pb:KR3k0032_WYG_049-1a>¶
-¶
-卷四十九¶
 欽定四庫全書¶
 　玉海卷四十九¶
 　　　　　　　　　　　　宋　王應麟　撰¶
