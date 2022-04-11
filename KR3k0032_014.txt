@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 14
+#+PROPERTY: JUAN 卷十四
 <pb:KR3k0032_WYG_014-1a>¶
-¶
-卷十四¶
 欽定四庫全書¶
 　玉海卷十四¶
 　　　　　　　　　　　　宋　王應麟　撰¶

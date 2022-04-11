@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 17
+#+PROPERTY: JUAN 卷十七
 <pb:KR3k0032_WYG_017-1a>¶
-¶
-卷十七¶
 欽定四庫全書¶
 　玉海卷十七¶
 　　　　　　　　　　　　宋　王應麟　撰¶
