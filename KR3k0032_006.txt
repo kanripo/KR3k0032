@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 6
+#+PROPERTY: JUAN 卷六
 <pb:KR3k0032_WYG_006-1a>¶
-¶
-卷六¶
 欽定四庫全書¶
 　玉海卷六¶
 　　　　　　　　　　　　　宋　王應麟　撰¶

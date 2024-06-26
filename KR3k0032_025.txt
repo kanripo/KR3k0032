@@ -4,10 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 25
+#+PROPERTY: JUAN 卷二十五
 <pb:KR3k0032_WYG_025-1a>¶
-¶
-卷二十五¶
 欽定四庫全書¶
 　玉海卷二十五¶
 　　　　　　　　　　　　宋　王應麟　撰¶

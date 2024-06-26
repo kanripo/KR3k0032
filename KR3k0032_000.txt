@@ -4,9 +4,8 @@
 #+PROPERTY: ID KR3k0032
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
-#+PROPERTY: JUAN 0
+#+PROPERTY: JUAN 提要
 <pb:KR3k0032_WYG_000-1a>¶
-提要¶
 欽定四庫全書　　　　　子部十一¶
 　玉海　(附)辭學指南　　　類書類¶
 提要¶
@@ -55,9 +54,8 @@
 　　　　　　　總纂官(臣)紀昀(臣)陸錫熊(臣)孫士毅¶
 <pb:KR3k0032_WYG_000-3b>¶
 　　　　　　　　總　校　官　(臣)　陸　費　墀¶
+#+PROPERTY: JUAN 目録
 <pb:KR3k0032_WYG_000-4a>¶
-¶
-目録¶
 欽定四庫全書　　　　　子部十一¶
 　玉海目録　　　　　　　類書類¶
 卷一¶
